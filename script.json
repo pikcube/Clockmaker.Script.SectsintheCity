@@ -102,7 +102,7 @@
     "jinxes": [
       {
         "id": "baron",
-        "reason": "Players may not select the Baron."
+        "reason": "If players select the Baron, there will be +2 outsiders. If the Baron is made drunk by Kazopolis, this doesn’t happen"
       },
       {
         "id": "summoner",
@@ -235,6 +235,22 @@
       {
         "id": "princess",
         "reason": "Kazopolis can only drunk the Princess if the storyteller makes every Princess drunk."
+      },
+      {
+        "id": "godfather",
+        "reason": "If players select the Godfather, there will be either -1 or +1 outsider. If the Godfather is made drunk, this does not happen"
+      },
+      {
+        "id": "xaan",
+        "reason": "If players select the Xaan, there may be any number of outsiders. If all Xaan are made drunk, this doesn’t happen"
+      },
+      {
+        "id": "fanggu",
+        "reason": "If a player selects the Fang Gu, there will be +1 outsider"
+      },
+      {
+        "id": "vigormortis",
+        "reason": "If a player selects the Vigor Mortis, there will be -1 outsider"
       }
     ],
     "remindersGlobal": [],
