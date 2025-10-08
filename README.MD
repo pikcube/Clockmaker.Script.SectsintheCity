@@ -1,1 +1,29 @@
 <!--Clockmaker Sync Enabled: Do Not Remove This Comment-->
+# Sects in the City
+## Characters
+* Clockmaker: You start knowing how many steps from the Demon to its nearest Minion.
+* Snake Charmer: Each night, choose an alive player: a chosen Demon swaps characters & alignments with you & is then poisoned.
+* Mathematician: Each night, you learn how many players' abilities worked abnormally (since dawn) due to another character's ability.
+* Dreamer: Each night, choose a player (not yourself or Travellers): you learn 1 good & 1 evil character, 1 of which is correct.
+* Flowergirl: Each night*, you learn if a Demon voted today.
+* Town Crier: Each night*, you learn if a Minion nominated today.
+* Oracle: Each night*, you learn how many dead players are evil.
+* Savant: Each day, you may visit the Storyteller to learn 2 things in private: 1 is true & 1 is false.
+* Seamstress: Once per game, at night, choose 2 players (not yourself): you learn if they are the same alignment.
+* Philosopher: Once per game, at night, choose a good character: gain that ability. If this character is in play, they are drunk.
+* Artist: Once per game, during the day, privately ask the Storyteller any yes/no question.
+* Juggler: On your 1st day, publicly guess up to 5 players' characters. That night, you learn how many you got correct.
+* Sage: If the Demon kills you, you learn that it is 1 of 2 players.
+* Sweetheart: When you die, 1 player is drunk from now on.
+* Klutz: When you learn that you died, publicly choose 1 alive player: if they are evil, your team loses.
+* Barber: If you died today or tonight, the Demon may choose 2 players (not another Demon) to swap characters.
+* Mutant: If you are "mad" about being an Outsider, you might be executed.
+* Witch: Each night, choose a player: if they nominate tomorrow, they die. If just 3 players live, you lose this ability.
+* Cerenovus: Each night, choose a player & a good character: they are "mad" they are this character tomorrow, or might be executed.
+* Pit-Hag: Each night*, choose a player & a character they become (if not-in-play). If a Demon is made, deaths tonight are arbitrary.
+* Evil Twin: You & an opposing player know each other. If the good player is executed, evil wins. Good can't win if you both live.
+* No Dashii: Each night*, choose a player: they die. Your 2 Townsfolk neighbors are poisoned.
+* Vigormortis: Each night*, choose a player: they die. Minions you kill keep their ability & poison 1 Townsfolk neighbor. [-1 Outsider]
+* Vortox: Each night*, choose a player: they die. Townsfolk abilities yield false info. Each day, if no-one is executed, evil wins.
+* Fang Gu: Each night*, choose a player: they die. The 1st Outsider this kills becomes an evil Fang Gu & you die instead. [+1 Outsider]
+* Kazopolis: On night 1, each player may choose to become any character of the same type. Duplicates might be drunk. [? Outsiders]
