@@ -26,4 +26,11 @@
 * Vigormortis: Each night*, choose a player: they die. Minions you kill keep their ability & poison 1 Townsfolk neighbor. [-1 Outsider]
 * Vortox: Each night*, choose a player: they die. Townsfolk abilities yield false info. Each day, if no-one is executed, evil wins.
 * Fang Gu: Each night*, choose a player: they die. The 1st Outsider this kills becomes an evil Fang Gu & you die instead. [+1 Outsider]
+* Djinn: Use the Djinn's special rule. All players know what it is.
+* Barista: Each night, until dusk, 1) a player becomes sober, healthy and gets true info, or 2) their ability works twice. They learn which.
+* Harlot: Each night*, choose a living player: if they agree, you learn their character, but you both might die.
+* Butcher: Each day, after the 1st execution, you may nominate again.
+* Bone Collector: Once per game, at night*, choose a dead player: they regain their ability until dusk.
+* Deviant: If you were funny today, you cannot die by exile.
+* Bootlegger: This script has homebrew characters or rules.
 * Kazopolis: On night 1, each player may choose to become any character of the same type. Duplicates might be drunk. [? Outsiders]
