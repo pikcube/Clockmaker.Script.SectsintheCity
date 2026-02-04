@@ -4,8 +4,8 @@
     "name": "Sects in the City",
     "author": "Pikcube",
     "firstNight": [
-      "kazopolis_kazopolis",
       "dusk",
+      "barista",
       "philosopher",
       "minioninfo",
       "demoninfo",
@@ -21,6 +21,9 @@
     ],
     "otherNight": [
       "dusk",
+      "barista",
+      "harlot",
+      "bonecollector",
       "philosopher",
       "snakecharmer",
       "witch",
@@ -68,13 +71,19 @@
   "vigormortis",
   "vortox",
   "fanggu",
+  "djinn",
+  "barista",
+  "harlot",
+  "butcher",
+  "bonecollector",
+  "deviant",
+  "bootlegger",
   {
     "id": "kazopolis_kazopolis",
     "edition": "",
     "name": "Kazopolis",
     "firstNightReminder": "Wake each player one at a time and let them pick a new character (if they wish). After all player have chosen, you may mark any player as drunk if they have a duplicate in play.",
-    "firstNight": 1.0,
-    "team": "fabled",
+    "team": "loric",
     "reminders": [
       "Drunk",
       "Drunk",
@@ -102,7 +111,7 @@
     "jinxes": [
       {
         "id": "baron",
-        "reason": "If players select the Baron, there will be +2 outsiders. If the Baron is made drunk by Kazopolis, this doesn’t happen"
+        "reason": "Players may not select the Baron."
       },
       {
         "id": "summoner",
@@ -235,22 +244,6 @@
       {
         "id": "princess",
         "reason": "Kazopolis can only drunk the Princess if the storyteller makes every Princess drunk."
-      },
-      {
-        "id": "godfather",
-        "reason": "If players select the Godfather, there will be either -1 or +1 outsider. If the Godfather is made drunk, this does not happen"
-      },
-      {
-        "id": "xaan",
-        "reason": "If players select the Xaan, there may be any number of outsiders. If all Xaan are made drunk, this doesn’t happen"
-      },
-      {
-        "id": "fanggu",
-        "reason": "If a player selects the Fang Gu, there will be +1 outsider"
-      },
-      {
-        "id": "vigormortis",
-        "reason": "If a player selects the Vigor Mortis, there will be -1 outsider"
       }
     ],
     "remindersGlobal": [],
